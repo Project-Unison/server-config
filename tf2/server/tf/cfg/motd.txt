@@ -1,25 +1,20 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>mastercomfig</title>
-<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
-<style>
-.main-logo {
-  width: 128px
-}
-header {
-    margin-top: 10px
-}
-</style>
-</head>
-<body class="bg-dark text-light">
-<header class="container">
-<img src="https://mastercomfig.com/favicon.png" alt="mastercomfig" class="main-logo">
-<h1 class="display-1 text-light">WELCOME TO<br><strong>COMFIG FORTRESS</strong>.</h1>
-<h2 class="display-6 text-light">An experimental new Team Fortress experience</h2>
-<a href="https://discord.gg/CuPb2zV" title="Discord" class="lead text-light"><u>Chat on Discord!</u></a>
-</header>
-</body>
-</html>
+login: unison64
+password: (Redacted)
+
+Welcome to Unison64 OS 2023.11...
+Unison64 is the recreation of Battlefield's 64 players system into TF2 system.
+
+Please note that Unison64 is made for joke as Roon was bored with games, and did NOT made for better match experience.
+
+This will also be test of the new 30$/m dedicated server. If you enjoyed please consider donating from Ko-Fi:
+https://ko-fi.com/mysticmoonlight
+
+Some general rules:
+1. Use common sense
+2. Use mute/report system if someone disturbs you
+3. Play fair; Don't cheat, crash servers or exploit things
+4. Have fun
+
+Commands: !nominate, !rtd
+
+Sprays are disabled to prevent exploits.
